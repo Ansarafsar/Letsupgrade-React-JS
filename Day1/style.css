@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+h2{
+    color:brown;
+    text-align: center;
+}
+.container{
+    border: 1px solid red;
+}
+.button{
+    padding: 7px;
+    margin-left: 5px;
+    text-align: center;
+    color: red;
+
+    
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
