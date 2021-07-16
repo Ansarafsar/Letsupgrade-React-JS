@@ -22,4 +22,4 @@ const App = () => {
 }
 
 export default App
-© 2021 GitHub, Inc.
+
